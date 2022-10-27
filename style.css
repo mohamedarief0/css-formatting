@@ -1,0 +1,71 @@
+/* body{
+    background-image: url(https://source.unsplash.com/1920x1080?/car);
+    background-position:center 250px;
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-repeat: repeat-x;
+    /* background-repeat: repeat-y; */
+    /* border: 1px solid grey;
+    width: auto;
+    height: 500px;
+
+} */
+p{
+    background-color: rgb(255, 255, 255);
+    color: azure;
+}
+.a{
+    color: black;
+}
+.b{
+    color: brown;
+}
+.c{
+    color: chartreuse;
+}
+
+.text{
+    color: magenta;
+    text-align: right;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-indent: 60px;
+
+}
+
+/* ext color: Magenta
+• Text alignment: right
+• Text decoration: underline
+• Text transform: uppercase
+• Text indent: 60 pixels */
+
+.font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color:red ;
+
+
+
+}
+/* Font family: Verdana
+• Font style: italic
+• Font size: 20pixels
+• Text align: left
+• Font weight: bold
+• Text color: Red */
+/* body{
+    background-image: url(https://source.unsplash.com/200x200?/cloud);
+    background-repeat: repeat; 
+
+}*/
+.welcome{
+    /* border-image: url("https://source.unsplash.com/1600x800/?cloud") 50 repeat; */
+    
+    text-align: center;
+    border: 50px solid;
+    width: max-content;
+    border-image: url("https://source.unsplash.com/1600x800/?cloud") 50 repeat;
+}
